@@ -7,7 +7,6 @@
 * Node.js
 * Express
 * MySQL
-* mysql2
 
 ## Cơ sở dữ liệu
 
